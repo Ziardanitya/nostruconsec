@@ -1,0 +1,1 @@
+result = pow(base, exponent);
